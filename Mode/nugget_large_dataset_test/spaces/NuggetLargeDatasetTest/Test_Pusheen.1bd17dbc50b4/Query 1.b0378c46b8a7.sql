@@ -1,2 +1,2 @@
--- test commit 1
+-- test commit 2
 Select 1;
