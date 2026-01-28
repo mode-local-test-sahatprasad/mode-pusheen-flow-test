@@ -1,3 +1,8 @@
--- added comment
--- added comment in github
-select 1;
+-- Returns first 10 rows from tutorial.accounts
+  SELECT 
+		id,
+		name,
+		primary_contact,
+		sales_rep_id,
+		region_id
+ FROM tutorial.accounts LIMIT 10;
