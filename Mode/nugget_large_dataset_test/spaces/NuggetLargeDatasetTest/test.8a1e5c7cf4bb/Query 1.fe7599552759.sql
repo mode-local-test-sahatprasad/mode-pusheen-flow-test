@@ -5,4 +5,4 @@
 		primary_contact,
 		sales_rep_id,
 		region_id
- FROM tutorial.accounts LIMIT 10;
+ FROM tutorial.accounts LIMIT 5;
